@@ -36,6 +36,11 @@ var/
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Data
+data/MetCouncil_Lake_Quality_1999_2014/
+data/MetCouncil_Lakes_Rivers/
+data/MetroGIS_Tax_Parcels_2014/
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
