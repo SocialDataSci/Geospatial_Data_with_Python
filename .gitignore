@@ -37,7 +37,8 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Data
-data/MetCouncil_Lake_Quality_1999_2014/
+data/MN_PCA_Cedar_Lake
+data/Results
 data/MetCouncil_Lakes_Rivers/
 data/MetroGIS_Tax_Parcels_2014/
 
