@@ -8,4 +8,4 @@ Use this Notebook to get a basic understanding of how to read, write, query and 
 
 * Open the .ipynb file with Jupyter Notebook to get started!
 
-![logo](./img/preview.jpg)
+![logo](./img/gislayers.jpg)
