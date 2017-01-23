@@ -6,6 +6,6 @@ Data comes in all shapes and sizes and often government data is geospatial in na
 
 Use this Notebook to get a basic understanding of how to read, write, query and perform simple geospatial calculations on Minnesota Tax shapefiles, MetCouncil Water Features and MN PCA Lake Quality Attributes with Python.
 
-![logo](./img/preview.jpg)
-
 * Open the .ipynb file with Jupyter Notebook to get started!
+
+![logo](./img/preview.jpg)
