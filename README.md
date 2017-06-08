@@ -13,3 +13,5 @@ Use this Notebook to get a basic understanding of how to read, write, query, per
 *Social Data Science hopes you take what you learn here and use it to improve the world around you!*
 
 ## [Open the Notebook with Jupyter to get started!](Intro%20to%20Geospatial%20Data%20with%20Python.ipynb)
+
+## [Watch the YouTube Talk](https://www.youtube.com/watch?v=qvHXRuGPHl0)
